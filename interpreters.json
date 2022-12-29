@@ -1,0 +1,31 @@
+{
+  "jsfuck": {
+    "Jsfuck": "https://www.dcode.fr/jsfuck-language"
+  },
+  "brainfuck": {
+    "Brainfuck": "https://www.dcode.fr/brainfuck-language",
+    "Reversefuck": "https://www.dcode.fr/reversefuck-language"
+  },
+  "pikalang": {
+    "Pikalang": "https://www.dcode.fr/pikalang-language"
+  },
+  "cow": {
+    "COW": "https://frank-buss.de/cow.html"
+  },
+  "malbolge": {
+    "Malbolge": "http://malbolge.doleczek.pl"
+  },
+  "binaryfuck": {
+    "Binaryfuck": "https://www.dcode.fr/binaryfuck-language",
+    "Spoon": "https://www.dcode.fr/spoon-language"
+  },
+  "ook": {
+    "Ook!": "https://www.dcode.fr/ook-language"
+  },
+  "alphuck": {
+    "Alphuck": "https://www.dcode.fr/alphuck-language"
+  },
+  "deadfish": {
+    "Deadfish": "https://www.dcode.fr/deadfish-language"
+  }
+}
